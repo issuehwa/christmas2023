@@ -1,0 +1,75 @@
+﻿{"frames": {
+
+"레터링.png":
+{
+	"frame": {"x":452,"y":439,"w":452,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":122},
+	"sourceSize": {"w":452,"h":122}
+},
+"레터링2.png":
+{
+	"frame": {"x":452,"y":317,"w":452,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":122},
+	"sourceSize": {"w":452,"h":122}
+},
+"모자.png":
+{
+	"frame": {"x":694,"y":0,"w":150,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":72},
+	"sourceSize": {"w":150,"h":72}
+},
+"배경.png":
+{
+	"frame": {"x":0,"y":0,"w":452,"h":1002},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":1002},
+	"sourceSize": {"w":452,"h":1002}
+},
+"상단.png":
+{
+	"frame": {"x":452,"y":561,"w":452,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":53},
+	"sourceSize": {"w":452,"h":53}
+},
+"캐릭터.png":
+{
+	"frame": {"x":452,"y":0,"w":242,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":317},
+	"sourceSize": {"w":242,"h":317}
+},
+"하단2.png":
+{
+	"frame": {"x":452,"y":614,"w":452,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":52},
+	"sourceSize": {"w":452,"h":52}
+},
+"하단3.png":
+{
+	"frame": {"x":452,"y":666,"w":452,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":52},
+	"sourceSize": {"w":452,"h":52}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "앞장_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
